@@ -18,6 +18,15 @@ terraform-aws-rds-mysql/
 
 ---
 
+<img width="3442" height="2032" alt="image" src="https://github.com/user-attachments/assets/bc32b637-3f23-419b-a23c-e1d29a6ab2fc" />
+
+
+<img width="3420" height="2010" alt="image" src="https://github.com/user-attachments/assets/0070ee13-c9ad-49f3-8057-60a73798fa6f" />
+
+
+
+
+
 ## Prerequisites
 
 - Terraform installed
