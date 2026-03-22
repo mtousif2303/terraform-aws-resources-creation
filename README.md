@@ -24,6 +24,20 @@ terraform-aws-rds-mysql/
 <img width="3420" height="2010" alt="image" src="https://github.com/user-attachments/assets/0070ee13-c9ad-49f3-8057-60a73798fa6f" />
 
 
+2) EC2 instance
+   
+   <img width="3452" height="1760" alt="image" src="https://github.com/user-attachments/assets/d9b4675b-9080-4924-b63c-c826a060c7f7" />
+   
+
+3) S3 bucket setup
+
+   <img width="3446" height="1718" alt="image" src="https://github.com/user-attachments/assets/f74df13f-827d-4a65-98d1-47a808886c06" />
+
+
+4) Github repo create
+   
+
+<img width="3446" height="1370" alt="image" src="https://github.com/user-attachments/assets/59d847d7-3e3e-4508-bdf0-17687873802e" />
 
 
 
